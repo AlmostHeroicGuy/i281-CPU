@@ -1,0 +1,78 @@
+C:/EE224/Project/Design/pcupdatelogic.v {1 {vlog -work work -stats=none C:/EE224/Project/Design/pcupdatelogic.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module pcupdatelogic
+
+Top level modules:
+	pcupdatelogic
+
+} {} {}} C:/EE224/Project/Design/i281_cpu_tb.v {1 {vlog -work work -stats=none C:/EE224/Project/Design/i281_cpu_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module i281_cpu_tb
+
+Top level modules:
+	i281_cpu_tb
+
+} {} {}} C:/EE224/Project/Design/registerfile.v {1 {vlog -work work -stats=none C:/EE224/Project/Design/registerfile.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module registerfile
+
+Top level modules:
+	registerfile
+
+} {} {}} C:/EE224/Project/Design/flags_register.v {1 {vlog -work work -stats=none C:/EE224/Project/Design/flags_register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module flags_register
+
+Top level modules:
+	flags_register
+
+} {} {}} C:/EE224/Project/Design/control.v {1 {vlog -work work -stats=none C:/EE224/Project/Design/control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} C:/EE224/Project/Design/cmem.v {1 {vlog -work work -stats=none C:/EE224/Project/Design/cmem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CodeMemory
+
+Top level modules:
+	CodeMemory
+
+} {} {}} C:/EE224/Project/Design/alu.v {1 {vlog -work work -stats=none C:/EE224/Project/Design/alu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/EE224/Project/Design/pc.v {1 {vlog -work work -stats=none C:/EE224/Project/Design/pc.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} C:/EE224/Project/Design/opcode_decoder.v {1 {vlog -work work -stats=none C:/EE224/Project/Design/opcode_decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module opcode_decoder
+
+Top level modules:
+	opcode_decoder
+
+} {} {}} C:/EE224/Project/Design/i281_cpu.v {1 {vlog -work work -stats=none C:/EE224/Project/Design/i281_cpu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module i281_cpu
+
+Top level modules:
+	i281_cpu
+
+} {} {}} C:/EE224/Project/Design/dmem.v {1 {vlog -work work -stats=none C:/EE224/Project/Design/dmem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}}

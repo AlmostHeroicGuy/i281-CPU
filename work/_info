@@ -1,0 +1,242 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+valu
+Z0 !s110 1763660817
+!i10b 1
+!s100 m;bYimQ9>^a1<@j_@FK8Y3
+Ia@LF_=S4Cdi[JM;HB<3P:0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/EE224/Project/Design
+Z3 w1763652164
+8C:/EE224/Project/Design/alu.v
+FC:/EE224/Project/Design/alu.v
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1763660817.000000
+!s107 C:/EE224/Project/Design/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/EE224/Project/Design/alu.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vCodeMemory
+R0
+!i10b 1
+!s100 a21le4;E?<6N;SZ6Oh?R61
+I?V2HzdEB7V6aJQ7^YbFhm0
+R1
+R2
+w1763647801
+8C:/EE224/Project/Design/cmem.v
+FC:/EE224/Project/Design/cmem.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/EE224/Project/Design/cmem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/EE224/Project/Design/cmem.v|
+!i113 1
+R6
+R7
+n@code@memory
+vcontrol
+R0
+!i10b 1
+!s100 _7ZFFomRFVe7F?NS?I9<13
+I?ATNK`AS?TzYi[S]YR?OA3
+R1
+R2
+w1763649289
+8C:/EE224/Project/Design/control.v
+FC:/EE224/Project/Design/control.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/EE224/Project/Design/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/EE224/Project/Design/control.v|
+!i113 1
+R6
+R7
+vdmem
+R0
+!i10b 1
+!s100 kXOMM6JkjUTE>3AVI@O9b2
+I2P@bhRkm5el6`Tm4_gz[<1
+R1
+R2
+w1763659329
+8C:/EE224/Project/Design/dmem.v
+FC:/EE224/Project/Design/dmem.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/EE224/Project/Design/dmem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/EE224/Project/Design/dmem.v|
+!i113 1
+R6
+R7
+vflags_register
+Z8 !s110 1763660818
+!i10b 1
+!s100 S4j9]4[>Q`zi:S]BT3`mT2
+IcL=dcSGhRW0bSli:=]bCl1
+R1
+R2
+R3
+8C:/EE224/Project/Design/flags_register.v
+FC:/EE224/Project/Design/flags_register.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z9 !s108 1763660818.000000
+!s107 C:/EE224/Project/Design/flags_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/EE224/Project/Design/flags_register.v|
+!i113 1
+R6
+R7
+vi281_cpu
+R8
+!i10b 1
+!s100 [g6RWak9<Gm5cBXYXAK@i0
+I_dQm5LhXkU;e:MjhJ42<a3
+R1
+R2
+w1763659902
+8C:/EE224/Project/Design/i281_cpu.v
+FC:/EE224/Project/Design/i281_cpu.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/EE224/Project/Design/i281_cpu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/EE224/Project/Design/i281_cpu.v|
+!i113 1
+R6
+R7
+vi281_cpu_tb
+R8
+!i10b 1
+!s100 hlfd6UJo9RNzKg66A_GD03
+I5_TLVCY93[=dU0j5?0kC<2
+R1
+R2
+w1763652935
+8C:/EE224/Project/Design/i281_cpu_tb.v
+FC:/EE224/Project/Design/i281_cpu_tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/EE224/Project/Design/i281_cpu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/EE224/Project/Design/i281_cpu_tb.v|
+!i113 1
+R6
+R7
+vopcode_decoder
+R8
+!i10b 1
+!s100 laAgUS?55lG84gBKLoaZb3
+IC8bIN7S>3nH71b6m8XYcj0
+R1
+R2
+w1763649834
+8C:/EE224/Project/Design/opcode_decoder.v
+FC:/EE224/Project/Design/opcode_decoder.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/EE224/Project/Design/opcode_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/EE224/Project/Design/opcode_decoder.v|
+!i113 1
+R6
+R7
+vpc
+R8
+!i10b 1
+!s100 kU<CiX`Bo8DYb;SKX=n703
+IgmSIhl;]78Vfm<G^YcWRe2
+R1
+R2
+w1763530706
+8C:/EE224/Project/Design/pc.v
+FC:/EE224/Project/Design/pc.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/EE224/Project/Design/pc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/EE224/Project/Design/pc.v|
+!i113 1
+R6
+R7
+vpcupdatelogic
+R8
+!i10b 1
+!s100 EO@WeX2h=`c`]KiCG?f5D2
+I0F?<]5fP:V_>16bU09OTi3
+R1
+R2
+w1763628634
+8C:/EE224/Project/Design/pcupdatelogic.v
+FC:/EE224/Project/Design/pcupdatelogic.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/EE224/Project/Design/pcupdatelogic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/EE224/Project/Design/pcupdatelogic.v|
+!i113 1
+R6
+R7
+vregisterfile
+R8
+!i10b 1
+!s100 GEKfHKEalRe[3BE3OS1`01
+I3dJ>EC<O3aYezjjofiNMk3
+R1
+R2
+R3
+8C:/EE224/Project/Design/registerfile.v
+FC:/EE224/Project/Design/registerfile.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/EE224/Project/Design/registerfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/EE224/Project/Design/registerfile.v|
+!i113 1
+R6
+R7
